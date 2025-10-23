@@ -7,4 +7,6 @@
 *&---------------------------------------------------------------------*
 REPORT z7ca_r_github_test.
 
-WRITE 'Github bağlantı'.
+WRITE / : 'Github bağlantı'.
+
+WRITE / : 'düzenleme'.
