@@ -10,3 +10,5 @@ REPORT z7ca_r_hello_world.
 WRITE : / 'Hello world'.
 
 WRITE : / 'Learning Abap'.
+
+WRITE : / 'Success'.
